@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Desktop\algoritnmos\c++\Con_SQL\Debug\Con_SQL.exe
+C:\Users\USUARIO\Desktop\algoritnmos\c++\Con_SQL\Debug\Con_SQL.pdb
